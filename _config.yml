@@ -1,2 +1,5 @@
 name: Emily Sambuco, MS Graduate Student
 markdown: kramdown
+
+
+permalink: /blog/:year/:month/:day/:title
